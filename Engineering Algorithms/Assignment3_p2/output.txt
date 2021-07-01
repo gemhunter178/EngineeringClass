@@ -1,0 +1,36 @@
+
+The outputs when 1 is input:
+F1: 2
+F2: 2
+F3: 2
+
+The outputs when 3 is input:
+F1: 8
+F2: 8
+F3: 8
+
+The outputs when 5 is input:
+F1: 32
+F2: 32
+F3: 32
+
+The outputs when 16 is input:
+F1: 65536
+F2: 65536
+F3: 65536
+
+The outputs when 24 is input:
+F1: 16777216
+F2: 16777216
+F3: 16777216
+
+The outputs when 26 is input:
+F1: 67108864
+F2: 67108864
+F3: 67108864
+
+The outputs when 30 is input:
+F1: 1073741824
+F2: 1073741824
+F3: 1073741824
+enter any number to exit

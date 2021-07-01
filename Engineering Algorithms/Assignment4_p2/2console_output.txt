@@ -1,0 +1,25 @@
+
+Served Customer #0 at time 1. Will finish at 6
+Customer #1 is now in wait at time 2
+Customer #2 is now in wait at time 4
+Served Customer #1 at time 6. Will finish at 11
+Served Customer #2 at time 11. Will finish at 16
+one more teller is available, (1 available) at time 16
+Served Customer #3 at time 20. Will finish at 25
+Customer #4 is now in wait at time 22
+Customer #5 is now in wait at time 24
+Served Customer #4 at time 25. Will finish at 30
+Customer #6 is now in wait at time 26
+Customer #7 is now in wait at time 28
+Customer #8 is now in wait at time 30
+Served Customer #5 at time 30. Will finish at 35
+Served Customer #6 at time 35. Will finish at 40
+Served Customer #7 at time 40. Will finish at 45
+Served Customer #8 at time 45. Will finish at 50
+one more teller is available, (1 available) at time 50
+Served Customer #9 at time 88. Will finish at 91
+one more teller is available, (1 available) at time 91
+Final Statistics:
+Total number of customers processed: 10
+Average waiting time = 5.6      Maximum waiting time = 15
+Maximum waiting queue length = 4

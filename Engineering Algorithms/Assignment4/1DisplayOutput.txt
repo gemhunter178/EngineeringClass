@@ -1,0 +1,46 @@
+Output2020_03_04_17_56.txt created!
+Folder Opened!
+All data presented using
+Best (already sorted) Case,
+Average (random) Case, and
+Worst (reverse sorted) Case in that order
+
+Selection Sort STATS:
+Number of moves: 0      Number of comparisons 500500
+Number of moves: 2976   Number of comparisons 500500
+Number of moves: 1500   Number of comparisons 500500
+BST now sorted STATUS: 1
+AVG now sorted STATUS: 1
+WST now sorted STATUS: 1
+
+Bubble Sort STATS:
+Number of moves: 0      Number of comparisons 999
+Number of moves: 771768 Number of comparisons 499485
+Number of moves: 1498500        Number of comparisons 499500
+BST now sorted STATUS: 1
+AVG now sorted STATUS: 1
+WST now sorted STATUS: 1
+
+Insertion Sort STATS:
+Number of moves: 999    Number of comparisons 1998
+Number of moves: 249313 Number of comparisons 249318
+Number of moves: 501498 Number of comparisons 500499
+BST now sorted STATUS: 1
+AVG now sorted STATUS: 1
+WST now sorted STATUS: 1
+
+Merge Sort STATS:
+Number of moves: 19952  Number of comparisons 24835
+Number of moves: 19952  Number of comparisons 32469
+Number of moves: 19952  Number of comparisons 25059
+BST now sorted STATUS: 1
+AVG now sorted STATUS: 1
+WST now sorted STATUS: 1
+
+Quick Sort STATS:
+Number of moves: 1507   Number of comparisons 8879
+Number of moves: 8508   Number of comparisons 12782
+Number of moves: 5559   Number of comparisons 14145
+BST now sorted STATUS: 1
+AVG now sorted STATUS: 1
+WST now sorted STATUS: 1

@@ -1,0 +1,63 @@
+Please enter course ID:
+course
+Please enter course title:
+title
+Please enter total course credits, as an integer:
+4
+Please enter the number of students in this class, as an integer:
+10
+Section info sorted by student's names:
+Course Information:
+ID: course
+title: title
+credits: 4
+Seq     Name            Address         Age     ID              Major   GPA
+===     ====            =======         ===     ==              =====   ===
+1       Barbara Harris  Chicago, IL     18      77777777        CS      3.9
+2       David Moore     Houston, TX     24      88888888        EE      3.5
+3       Jennifer Lee    Providence, RI  21      33333333        CS      3.6
+4       John Smith      Dartmouth, NH   20      22222222        CE      3.8
+5       Joseph Anderson Miami, FL       26      99999999        CE      3.3
+6       Linda White     New York, NY    23      55555555        ME      3.1
+7       Lisa Garcia     Phoenix, AZ     25      99990000        CE      4
+8       Mary Clark      Boston, MA      22      11111111        CE      3.4
+9       Robert Brown    Norton, MA      19      44444444        EE      3.7
+10      William Wilson  Los Angeles, CA 19      66666666        IE      3.2
+
+Section info sorted by student's ages:
+Course Information:
+ID: course
+title: title
+credits: 4
+Seq     Name            Address         Age     ID              Major   GPA
+===     ====            =======         ===     ==              =====   ===
+1       Barbara Harris  Chicago, IL     18      77777777        CS      3.9
+2       Robert Brown    Norton, MA      19      44444444        EE      3.7
+3       William Wilson  Los Angeles, CA 19      66666666        IE      3.2
+4       John Smith      Dartmouth, NH   20      22222222        CE      3.8
+5       Jennifer Lee    Providence, RI  21      33333333        CS      3.6
+6       Mary Clark      Boston, MA      22      11111111        CE      3.4
+7       Linda White     New York, NY    23      55555555        ME      3.1
+8       David Moore     Houston, TX     24      88888888        EE      3.5
+9       Lisa Garcia     Phoenix, AZ     25      99990000        CE      4
+10      Joseph Anderson Miami, FL       26      99999999        CE      3.3
+
+Section info sorted by student's GPAs:
+Course Information:
+ID: course
+title: title
+credits: 4
+Seq     Name            Address         Age     ID              Major   GPA
+===     ====            =======         ===     ==              =====   ===
+1       Lisa Garcia     Phoenix, AZ     25      99990000        CE      4
+2       Barbara Harris  Chicago, IL     18      77777777        CS      3.9
+3       John Smith      Dartmouth, NH   20      22222222        CE      3.8
+4       Robert Brown    Norton, MA      19      44444444        EE      3.7
+5       Jennifer Lee    Providence, RI  21      33333333        CS      3.6
+6       David Moore     Houston, TX     24      88888888        EE      3.5
+7       Mary Clark      Boston, MA      22      11111111        CE      3.4
+8       Joseph Anderson Miami, FL       26      99999999        CE      3.3
+9       William Wilson  Los Angeles, CA 19      66666666        IE      3.2
+10      Linda White     New York, NY    23      55555555        ME      3.1
+
+Enter a '1' to exit.

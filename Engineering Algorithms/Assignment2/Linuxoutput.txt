@@ -1,0 +1,278 @@
+-bash-4.2$ make
+g++  -std=c++11 Assignment2.cpp -c -o Assignment2.o
+g++ -std=c++11 Assign2Classes.cpp -c -o Assign2Classes.o
+g++ -std=c++11 getInput.cpp -c -o getInput.o
+g++ -std=c++11 Assignment2.o getInput.o Assign2Classes.o -o Assignment2
+-bash-4.2$ ./Assignment2
+Please enter course ID:
+course
+Please enter course title:
+title
+Please enter total course credits, as an integer:
+4
+Please enter the number of students in this class, as an integer:
+10
+Section info sorted by student's names:
+=======================================
+Course Information:
+ID: course
+title: title
+credits: 4
+=======================================
+Seq#    1
+Name:   Barbara Harris
+Addr:   Chicago, IL
+Age:    18
+ID:     77777777
+Major:  CS
+GPA:    3.9
+
+Seq#    2
+Name:   David Moore
+Addr:   Houston, TX
+Age:    24
+ID:     88888888
+Major:  EE
+GPA:    3.5
+
+Seq#    3
+Name:   Jennifer Lee
+Addr:   Providence, RI
+Age:    21
+ID:     33333333
+Major:  CS
+GPA:    3.6
+
+Seq#    4
+Name:   John Smith
+Addr:   Dartmouth, NH
+Age:    20
+ID:     22222222
+Major:  CE
+GPA:    3.8
+
+Seq#    5
+Name:   Joseph Anderson
+Addr:   Miami, FL
+Age:    26
+ID:     99999999
+Major:  CE
+GPA:    3.3
+
+Seq#    6
+Name:   Linda White
+Addr:   New York, NY
+Age:    23
+ID:     55555555
+Major:  ME
+GPA:    3.1
+
+Seq#    7
+Name:   Lisa Garcia
+Addr:   Phoenix, AZ
+Age:    25
+ID:     99990000
+Major:  CE
+GPA:    4
+
+Seq#    8
+Name:   Mary Clark
+Addr:   Boston, MA
+Age:    22
+ID:     11111111
+Major:  CE
+GPA:    3.4
+
+Seq#    9
+Name:   Robert Brown
+Addr:   Norton, MA
+Age:    19
+ID:     44444444
+Major:  EE
+GPA:    3.7
+
+Seq#    10
+Name:   William Wilson
+Addr:   Los Angeles, CA
+Age:    19
+ID:     66666666
+Major:  IE
+GPA:    3.2
+
+
+Section info sorted by student's ages:
+=======================================
+Course Information:
+ID: course
+title: title
+credits: 4
+=======================================
+Seq#    1
+Name:   Barbara Harris
+Addr:   Chicago, IL
+Age:    18
+ID:     77777777
+Major:  CS
+GPA:    3.9
+
+Seq#    2
+Name:   Robert Brown
+Addr:   Norton, MA
+Age:    19
+ID:     44444444
+Major:  EE
+GPA:    3.7
+
+Seq#    3
+Name:   William Wilson
+Addr:   Los Angeles, CA
+Age:    19
+ID:     66666666
+Major:  IE
+GPA:    3.2
+
+Seq#    4
+Name:   John Smith
+Addr:   Dartmouth, NH
+Age:    20
+ID:     22222222
+Major:  CE
+GPA:    3.8
+
+Seq#    5
+Name:   Jennifer Lee
+Addr:   Providence, RI
+Age:    21
+ID:     33333333
+Major:  CS
+GPA:    3.6
+
+Seq#    6
+Name:   Mary Clark
+Addr:   Boston, MA
+Age:    22
+ID:     11111111
+Major:  CE
+GPA:    3.4
+
+Seq#    7
+Name:   Linda White
+Addr:   New York, NY
+Age:    23
+ID:     55555555
+Major:  ME
+GPA:    3.1
+
+Seq#    8
+Name:   David Moore
+Addr:   Houston, TX
+Age:    24
+ID:     88888888
+Major:  EE
+GPA:    3.5
+
+Seq#    9
+Name:   Lisa Garcia
+Addr:   Phoenix, AZ
+Age:    25
+ID:     99990000
+Major:  CE
+GPA:    4
+
+Seq#    10
+Name:   Joseph Anderson
+Addr:   Miami, FL
+Age:    26
+ID:     99999999
+Major:  CE
+GPA:    3.3
+
+
+Section info sorted by student's GPAs:
+=======================================
+Course Information:
+ID: course
+title: title
+credits: 4
+=======================================
+Seq#    1
+Name:   Lisa Garcia
+Addr:   Phoenix, AZ
+Age:    25
+ID:     99990000
+Major:  CE
+GPA:    4
+
+Seq#    2
+Name:   Barbara Harris
+Addr:   Chicago, IL
+Age:    18
+ID:     77777777
+Major:  CS
+GPA:    3.9
+
+Seq#    3
+Name:   John Smith
+Addr:   Dartmouth, NH
+Age:    20
+ID:     22222222
+Major:  CE
+GPA:    3.8
+
+Seq#    4
+Name:   Robert Brown
+Addr:   Norton, MA
+Age:    19
+ID:     44444444
+Major:  EE
+GPA:    3.7
+
+Seq#    5
+Name:   Jennifer Lee
+Addr:   Providence, RI
+Age:    21
+ID:     33333333
+Major:  CS
+GPA:    3.6
+
+Seq#    6
+Name:   David Moore
+Addr:   Houston, TX
+Age:    24
+ID:     88888888
+Major:  EE
+GPA:    3.5
+
+Seq#    7
+Name:   Mary Clark
+Addr:   Boston, MA
+Age:    22
+ID:     11111111
+Major:  CE
+GPA:    3.4
+
+Seq#    8
+Name:   Joseph Anderson
+Addr:   Miami, FL
+Age:    26
+ID:     99999999
+Major:  CE
+GPA:    3.3
+
+Seq#    9
+Name:   William Wilson
+Addr:   Los Angeles, CA
+Age:    19
+ID:     66666666
+Major:  IE
+GPA:    3.2
+
+Seq#    10
+Name:   Linda White
+Addr:   New York, NY
+Age:    23
+ID:     55555555
+Major:  ME
+GPA:    3.1
+
+

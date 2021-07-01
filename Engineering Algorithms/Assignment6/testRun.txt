@@ -1,0 +1,23 @@
+Please refer to the attached map to show available locations in this program...
+
+Please enter a starting location: 23A
+Please enter an ending location: 49
+
+The shortest path goes from 23A 23C 2 30 6 4 59 50 52 5 49
+This path is 821m long
+
+Do you wish to find another path? (y/n): y
+Please enter a starting location: 23A
+Please enter an ending location: 55
+
+The shortest path goes from 23A 23C 1 33 3 55
+This path is 381m long
+
+Do you wish to find another path? (y/n): y
+Please enter a starting location: 46
+Please enter an ending location: 41
+
+The shortest path goes from 46 49 5 52 50 59 4 41
+This path is 556m long
+
+Do you wish to find another path? (y/n):

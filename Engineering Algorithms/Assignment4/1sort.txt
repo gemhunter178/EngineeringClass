@@ -1,0 +1,16 @@
+Data From:		moves:	comps:
+selection sort on BST:	0	500500
+selection sort on AVG:	2976	500500
+selection sort on WST:	1500	500500
+bubble sort on BST:	0	999
+bubble sort on AVG:	771768	499485
+bubble sort on WST:	1498500	499500
+insertion sort on BST:	999	1998
+insertion sort on AVG:	249313	249318
+insertion sort on WST:	501498	500499
+merge sort on BST:	19952	24835
+merge sort on AVG:	19952	32469
+merge sort on WST:	19952	25059
+quick sort on BST:	1507	8879
+quick sort on AVG:	8508	12782
+quick sort on WST:	5559	14145

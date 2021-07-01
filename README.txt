@@ -3,3 +3,4 @@ As such, I request any information here to be used as reference and as a showcas
 I ask that no one should directly copy this code for class sumbissions, though you are free to reference this code for help.
 
 NOTE: This repo was made with no intent to break school policies and is in no way monetized.
+Commits before 2021-07-01 were removed for privacy reasons.
